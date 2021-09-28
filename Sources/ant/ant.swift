@@ -1,5 +1,5 @@
 public struct ant {
-    public private(set) var text = "Hello, World!"
+    public private(set) var text = "Hello, ants!"
 
     public init() {
     }
